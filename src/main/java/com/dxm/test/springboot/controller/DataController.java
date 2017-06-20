@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.dxm.test.springboot.domain.Person;
-import com.dxm.test.springboot.mapper.PersonMapper;
 import com.dxm.test.springboot.repository.PersonRepository;
   
 @RestController  
@@ -24,8 +23,8 @@ public class DataController {
     @Autowired  
     PersonRepository personRepository;  
     
-    @Autowired
-    PersonMapper PersonMapper;
+//    @Autowired
+//    PersonMapper PersonMapper;
       
     @RequestMapping("/save")  
     public Person save(String name,String address,Integer age){  
@@ -78,6 +77,7 @@ public class DataController {
     @RequestMapping("/getbymybatis")
     public List<Person> getByMybatis(String address){ 
     	logger.debug("getByMybatis 开始"); 
-    	return PersonMapper.findByCountry(address);
+//    	return PersonMapper.findByCountry(address);
+    	return null;
     }
 }  
