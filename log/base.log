@@ -1,0 +1,151 @@
+2017-06-19 13:34:57,857 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 17584 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 13:34:57,867 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 13:34:57,868 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 13:35:03,156 INFO (StartupInfoLogger.java:57)- Started Application in 6.479 seconds (JVM running for 9.128)
+2017-06-19 13:35:22,582 DEBUG (SpringBootExample.java:23)- ###location
+2017-06-19 14:36:05,514 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 12128 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 14:36:05,522 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 14:36:05,524 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 14:48:52,595 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 20392 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 14:48:52,602 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 14:48:52,603 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 14:51:44,620 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 22148 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 14:51:44,626 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 14:51:44,627 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 14:52:53,726 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 15028 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 14:52:53,735 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 14:52:53,736 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 14:54:27,986 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 19588 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 14:54:27,994 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 14:54:27,995 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 14:54:34,118 INFO (StartupInfoLogger.java:57)- Started Application in 6.804 seconds (JVM running for 9.224)
+2017-06-19 14:55:37,765 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 26632 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 14:55:37,771 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 14:55:37,772 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:00:24,589 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 27312 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:00:24,595 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:00:24,595 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:02:05,497 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 28036 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:02:05,504 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:02:05,504 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:03:07,273 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 28272 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:03:07,279 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:03:07,280 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:06:03,102 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 5972 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:06:03,107 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:06:03,108 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:06:08,598 INFO (StartupInfoLogger.java:57)- Started Application in 6.423 seconds (JVM running for 8.486)
+2017-06-19 15:07:59,482 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 28944 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:07:59,493 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:07:59,494 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:10:20,749 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 29592 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:10:20,755 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:10:20,755 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:13:16,648 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 29680 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:13:16,657 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:13:16,659 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:13:22,631 INFO (StartupInfoLogger.java:57)- Started Application in 6.623 seconds (JVM running for 9.132)
+2017-06-19 15:14:32,886 DEBUG (ObjectRedisController.java:21)- 访问setPerson:id=2,name=lxh2,age=2
+2017-06-19 15:16:31,883 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 30316 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:16:31,891 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:16:31,892 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:19:14,746 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 16964 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:19:14,751 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:19:14,752 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:20:09,817 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 31576 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:20:09,824 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:20:09,825 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:21:42,726 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 31620 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:21:42,732 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:21:42,733 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:21:48,257 INFO (StartupInfoLogger.java:57)- Started Application in 6.188 seconds (JVM running for 8.804)
+2017-06-19 15:23:34,915 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 30896 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:23:34,920 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:23:34,921 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:23:41,549 INFO (StartupInfoLogger.java:57)- Started Application in 7.302 seconds (JVM running for 9.546)
+2017-06-19 15:24:14,750 DEBUG (StringRedisController.java:21)- 访问set:key=lxh2,value=1001
+2017-06-19 15:24:31,676 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:25:07,597 DEBUG (StringRedisController.java:21)- 访问set:key=lxh2,value=1001
+2017-06-19 15:25:48,568 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 19364 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:25:48,575 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:25:48,576 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:25:55,813 INFO (StartupInfoLogger.java:57)- Started Application in 8.04 seconds (JVM running for 11.181)
+2017-06-19 15:26:14,229 DEBUG (StringRedisController.java:21)- 访问set:key=lxh2,value=1001
+2017-06-19 15:40:39,827 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:42:33,001 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:42:39,811 DEBUG (StringRedisController.java:21)- 访问set:key=lxh2,value=1001
+2017-06-19 15:42:43,940 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:43:45,592 DEBUG (ObjectRedisController.java:22)- 访问setPerson:id=2,name=lxh2,age=2
+2017-06-19 15:45:09,144 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 33984 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:45:09,158 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:45:09,159 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:45:14,497 INFO (StartupInfoLogger.java:57)- Started Application in 6.088 seconds (JVM running for 8.604)
+2017-06-19 15:45:37,969 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:47:01,278 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:47:17,882 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:47:26,039 DEBUG (ObjectRedisController.java:22)- 访问setPerson:id=2,name=lxh2,age=2
+2017-06-19 15:47:35,167 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:47:37,624 DEBUG (StringRedisController.java:21)- 访问set:key=lxh2,value=1001
+2017-06-19 15:47:39,608 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:29,418 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:31,650 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:38,093 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:39,011 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:39,891 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:40,511 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:41,235 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:41,821 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:42,441 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:43,064 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:43,642 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:44,190 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:49:45,052 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:51:01,944 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:51:25,586 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 35340 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 15:51:25,594 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 15:51:25,595 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 15:51:30,190 INFO (StartupInfoLogger.java:57)- Started Application in 5.377 seconds (JVM running for 7.646)
+2017-06-19 15:51:38,907 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 15:51:42,385 DEBUG (StringRedisController.java:21)- 访问set:key=lxh2,value=1001
+2017-06-19 15:51:45,175 DEBUG (StringRedisController.java:28)- 访问get:key=lxh2
+2017-06-19 16:32:37,938 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 42412 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 16:32:37,945 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 16:32:37,947 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 16:35:14,394 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 40788 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 16:35:14,400 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 16:35:14,401 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 16:41:33,007 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 40004 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 16:41:33,015 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 16:41:33,016 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 16:41:42,906 INFO (StartupInfoLogger.java:57)- Started Application in 10.736 seconds (JVM running for 13.128)
+2017-06-19 16:42:30,521 DEBUG (DataController.java:28)- save 开始
+2017-06-19 16:42:31,722 DEBUG (DataController.java:30)- save 结束
+2017-06-19 16:43:09,732 DEBUG (DataController.java:28)- save 开始
+2017-06-19 16:43:09,759 DEBUG (DataController.java:30)- save 结束
+2017-06-19 16:43:17,768 DEBUG (DataController.java:28)- save 开始
+2017-06-19 16:43:17,814 DEBUG (DataController.java:30)- save 结束
+2017-06-19 16:43:24,633 DEBUG (DataController.java:28)- save 开始
+2017-06-19 16:43:24,665 DEBUG (DataController.java:30)- save 结束
+2017-06-19 16:43:53,331 DEBUG (DataController.java:36)- q1 开始
+2017-06-19 16:43:53,335 DEBUG (DataController.java:37)- q1 接收参数address=北京
+2017-06-19 16:44:36,068 DEBUG (DataController.java:44)- q2 开始
+2017-06-19 16:44:36,070 DEBUG (DataController.java:45)- q2接收参数name=aa,address=北京
+2017-06-19 16:45:25,469 DEBUG (DataController.java:51)- q3 开始
+2017-06-19 16:45:25,470 DEBUG (DataController.java:52)- q3接收参数name=aa,address=北京
+2017-06-19 16:46:05,916 DEBUG (DataController.java:58)- sort 开始
+2017-06-19 16:47:00,885 DEBUG (DataController.java:65)- page 开始
+2017-06-19 17:40:29,990 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 43624 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 17:40:29,996 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 17:40:29,997 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 17:41:36,811 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 44168 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 17:41:36,817 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 17:41:36,818 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 17:47:30,852 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 38204 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 17:47:30,859 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 17:47:30,860 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 17:52:12,024 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 39564 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 17:52:12,031 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 17:52:12,034 INFO (SpringApplication.java:653)- No profiles are active
+2017-06-19 18:02:26,392 INFO (StartupInfoLogger.java:48)- Starting Application on LAPTOP-LIFJVGQC with PID 45348 (D:\workspace\workspace-normal\springboot\target\classes started by autumn in D:\workspace\workspace-normal\springboot)
+2017-06-19 18:02:26,398 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.3.0.RELEASE, Spring v4.2.3.RELEASE
+2017-06-19 18:02:26,399 INFO (SpringApplication.java:653)- No profiles are active
